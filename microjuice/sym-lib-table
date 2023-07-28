@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "RoboCamp")(type "Legacy")(uri "C:/Users/Dzarda/Documents/src/RoboCamp-2021/common/RoboCamp.lib")(options "")(descr ""))
+  (lib (name "TXS0104E")(type "Legacy")(uri "${KIPRJMOD}/TXS0104E.lib")(options "")(descr ""))
 )
