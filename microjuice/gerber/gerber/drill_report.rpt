@@ -1,0 +1,26 @@
+Drill report for microjuice.kicad_pcb
+Created on Thu Jun 23 18:32:15 2022
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'microjuice.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (24 holes)
+    T2  1.000mm  0.0394"  (9 holes)
+    T3  4.250mm  0.1673"  (5 holes)
+    T4  4.600mm  0.1811"  (6 holes)
+
+    Total plated holes count 44
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T5  3.200mm  0.1260"  (4 holes)
+
+    Total unplated holes count 4
